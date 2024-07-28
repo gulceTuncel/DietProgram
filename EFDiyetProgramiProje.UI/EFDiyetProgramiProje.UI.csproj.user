@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminDatabasePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminReportsPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ControlClass\MulticoloredProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserFoodRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLogInPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserReportPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserSignUpPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserSignUpPage2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
